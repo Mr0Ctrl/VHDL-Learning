@@ -1,0 +1,15 @@
+$date
+  Sun Dec 21 12:17:39 2025
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module helloworldtb $end
+$upscope $end
+$enddefinitions $end
+#0
