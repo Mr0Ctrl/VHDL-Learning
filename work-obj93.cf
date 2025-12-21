@@ -8,3 +8,6 @@ file . "T8/IfTb.vhdl" "2fe702a71ddab32f7759fbc8faf3713b88cf62a9" "20251221122538
 file . "T7/WaitUntilTb.vhdl" "d340c6b435076dff7e47fd3cdcf0e7d3e8dedfb6" "20251221121755.286":
   entity waituntiltb at 1( 0) + 0 on 23;
   architecture sim of waituntiltb at 3( 35) + 0 on 24;
+file . "T10/StdLogicTb.vhdl" "a2ea12e0cec30d168752d87091f4213615db1228" "20251221193416.982":
+  entity stdlogictb at 1( 0) + 0 on 57;
+  architecture sim of stdlogictb at 6( 78) + 0 on 58;
